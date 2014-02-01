@@ -5,3 +5,31 @@ packages:
     description: browser
     source: hosted
     version: "0.9.1"
+  ds:
+    description: ds
+    source: hosted
+    version: "0.3.0"
+  guardedfs:
+    description: guardedfs
+    source: hosted
+    version: "0.1.2"
+  hub:
+    description: hub
+    source: hosted
+    version: "0.6.2"
+  path:
+    description: path
+    source: hosted
+    version: "1.0.0"
+  socketire:
+    description: socketire
+    source: hosted
+    version: "0.1.4"
+  sparkflow:
+    description: sparkflow
+    source: hosted
+    version: "0.0.9"
+  streamable:
+    description: streamable
+    source: hosted
+    version: "0.1.3"

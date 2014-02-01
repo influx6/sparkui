@@ -1,0 +1,37 @@
+/*@font-face{ 
+	font-family: 'MyWebFont';
+	src: url('WebFont.eot');
+	src: url('WebFont.eot?iefix') format('eot'),
+	     url('WebFont.woff') format('woff'),
+	     url('WebFont.ttf') format('truetype'),
+	     url('WebFont.svg#webfont') format('svg');
+}*/
+
+@font-face{ 
+	font-family: 'kushan';
+	src: url('assets/fonts/kaushan-script/kaushanScript-Regular.woff') format('woff'),
+}
+
+@font-face {
+    font-family: 'ptSansItalic';
+    src: url('assets/fonts/ptsans_italic/PTS56F-webfont.eot');
+    src: url('assets/fonts/ptsans_italic/PTS56F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('assets/fonts/ptsans_italic/PTS56F-webfont.woff') format('woff'),
+         url('assets/fonts/ptsans_italic/PTS56F-webfont.ttf') format('truetype'),
+         url('assets/fonts/ptsans_italic/PTS56F-webfont.svg#pt_sansitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ptSansNarrow';
+    src: url('assets/fonts/ptsans_narrow/PTN57F-webfont.eot');
+    src: url('assets/fonts/ptsans_narrow/PTN57F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('assets/fonts/ptsans_narrow/PTN57F-webfont.woff') format('woff'),
+         url('assets/fonts/ptsans_narrow/PTN57F-webfont.ttf') format('truetype'),
+         url('assets/fonts/ptsans_narrow/PTN57F-webfont.svg#pt_sans_narrowregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

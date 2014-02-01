@@ -1,12 +1,14 @@
-name: sparkflow_ui
+name: sparkui
+author: Alexander Adeniyin Ewetumo<trinoxf@gmail.com>
 version: 0.0.1
-author: Alexander Adeniyin Ewetumo
-description: sparkflow integrated with noflo-ui
 homepage: http://github.com/influx6/sparkui.dart
+description: Sparkflow integration with noflo-UI
 dependencies:
   browser: any
+  ds: any
+  guardedfs: any
   hub: any
+  path: any
   socketire: any
   sparkflow: any
-  statemanager: any
   streamable: any
