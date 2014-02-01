@@ -3,3 +3,6 @@ noflo
 */noflo
 /noflo
 *.lock
+packages
+*/packages
+*packages
